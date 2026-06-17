@@ -1,0 +1,81 @@
+# Harendra Singh Negi – Senior Full Stack Developer
+
+> Senior Full Stack Developer & Team Lead with 6+ years of experience based in Dehradun, Uttarakhand, India.
+
+## Identity
+
+- **Full Name:** Harendra Singh Negi
+- **Role:** Senior Full Stack Developer & Team Lead
+- **Location:** Dehradun, Uttarakhand, India
+- **Email:** harendrasinghnegi83@gmail.com
+- **Phone:** +91 95577 35224
+- **Website:** https://harendra-singh-negi.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/hsnegi
+- **GitHub:** https://github.com/harendra-singh-negi
+
+## Professional Summary
+
+Harendra Singh Negi is a Senior Full Stack Developer and Team Lead with over 6 years of professional experience. He specialises in building scalable CRM systems, real-time web applications, and e-commerce platforms. He is currently leading development at Safe Lanes Innovation Pte Ltd in Dehradun, where he manages cross-functional teams and delivers production-grade maritime software systems.
+
+He has delivered 10+ enterprise CRM systems and 50+ client projects. His expertise spans React.js, Node.js, Next.js, NestJS, Angular, MySQL, MongoDB, Socket.io, and GitLab CI/CD.
+
+## Current Role
+
+**Safe Lanes Innovation Pte Ltd** – Senior Full Stack Developer & Team Lead (May 2023 – Present)
+- Led real-time data sync systems using Socket.io, ReactJS, and MySQL
+- Architected and maintained CI/CD pipelines via GitLab
+- Migrated Angular v9 to v19 with standalone components; upgraded NestJS v9 to v11
+- Architected offline-capable application with background synchronisation via Socket.io
+- Mentored junior developers; received Top Performer award in 2024 and 2025
+- Collaborated with AI tools (V0, Bolt, Claude) to accelerate frontend development
+
+## Past Experience
+
+- **Grassroots Private Limited** – Software Developer (Apr 2022 – Apr 2023, Bangalore): Delivered 10+ CRM systems for Swiggy, Max Healthcare, Manipal Ambulance. Won Top Performer, Extra Mile, and Excellent Contributor awards.
+- **PinCox Software Pvt Ltd** – Senior Developer (Oct 2021 – Feb 2022): Led development of HTDukan e-commerce app.
+- **Sparous** – Software Developer (Oct 2019 – Feb 2020): Built versatile e-commerce platform.
+- **Freelancer** (Jul 2018 – Oct 2021): Completed 50+ dynamic web projects and 20+ MLM projects.
+- **Smartcore Tech Soft** – Software Developer (Mar 2019 – Sept 2019): Trainer and developer.
+- **Call Connect India** – Software Developer (Apr 2018 – Aug 2018): Built custom web and WordPress solutions.
+
+## Technical Skills
+
+- **Frontend:** React.js, Next.js, AngularJS (v9–v19), HTML5, CSS3, Tailwind CSS, Material UI, Redux
+- **Backend:** Node.js, Express.js, NestJS (v9–v11), PHP, Laravel
+- **Databases:** MySQL, MongoDB, Firebase, Amazon RDS, SQLite
+- **Mobile:** React Native Expo
+- **DevOps & Tools:** GitLab CI/CD, GitHub, Docker, AWS, NGINX, Jenkins, Postman, Swagger
+- **Real-Time:** Socket.io
+- **AI Tools Used:** ChatGPT, Google Gemini, Claude, Bolt, V0
+
+## Key Projects
+
+- **Sail App** (sailerp.sl-sail.com): Maritime consultancy platform – vessel inspections, risk analysis, SIRE/SIRE 2.0, PDF/Excel reports. Stack: Next.js, Node.js, Socket.io, MySQL, AWS RDS, GitLab CI/CD.
+- **Vessel Sync System**: Real-time ship-to-cloud data synchronisation with offline support, retry logic, Socket.io.
+- **CRM Suite (Grassroots)**: 10+ custom CRMs for Swiggy, Manipal Ambulance, Max Healthcare.
+- **HTDukan**: Android web app + e-commerce platform with mobile-first UI.
+
+## Education
+
+- **JAIN University** – MCA in Cyber Security (2022–2024)
+- **Hemvati Nandan Bahuguna Garhwal University** – BCA (2018–2021)
+- **Govt. Polytechnic Dehradun (UBTER)** – D.Voc (2015–2018)
+
+## Awards
+
+- Top Performer – Safe Lanes Innovation (2024, 2025)
+- Extra Mile Award – Grassroots (Feb 2023)
+- Top Performer – Grassroots (Jan 2023)
+- Excellent Contributor – Grassroots (Aug 2022)
+- 2nd Prize – Hackathon 2.0 National Level (72-hour coding competition)
+
+## Certifications
+
+- Cyber Security & Web Penetration Testing – The TechIntern
+- FTCP Certification – Rooman Technologies (DDUGKY Scheme)
+- Python Programming – GUVI / IITM Research Park
+- Web Development – Manipal Pro Learn
+
+## Languages
+
+English, Hindi
